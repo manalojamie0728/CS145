@@ -1,0 +1,6 @@
+1. Part 1
+a) HTTP, TCP, SSL
+b) HTTP OK:  75.819832
+   HTTP GET: 75.815245
+   TIME: 0.004587 secs
+c) 
